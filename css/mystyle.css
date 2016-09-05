@@ -1,0 +1,102 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.row-content{
+    margin: 0px;
+    padding: 5px 0px 5px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+.row-footer{
+    background-color: #AfAfAf;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+    width: 100%;
+    min-height: 400px;
+    background: url('/img/gbsports.jpg') #8FBC8F;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 7px 3px 7px 3px;
+    margin: 0px auto;
+    color: white;
+}
+#jumboabout{
+    width: 100%;
+    min-height: 400px;
+    background: url('/img/gbc1.jpg') #8FBC8F;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 7px 3px 7px 3px;
+    margin: 0px auto;
+    color: white;
+}
+.jumbotron h1{
+    background:  rgba(0, 0, 100, 0.3);
+    color: orange;
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+.jumbotron p{
+    color: navajowhite;
+    font-family: 'Oswald', sans-serif;
+}
+address{
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-inverse {
+     background: #2E8B57;
+    border-bottom: 1px solid white;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #006400;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #fff;
+    background: #006400;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #006400;
+    color:#eeeeee;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    color:#000000;
+}
+iframe {
+    width: 100%;
+    height: auto;
+}
+video {
+    width: 100%;
+    height: auto;
+}
+img{
+max-width: 100%;
+height: auto;
+}
+#aboutus img{
+    width: 300px;
+    height: 200px;
+}
