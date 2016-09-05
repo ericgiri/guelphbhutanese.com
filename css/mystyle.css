@@ -46,6 +46,15 @@
     color: navajowhite;
     font-family: 'Oswald', sans-serif;
 }
+#tagline{
+    background:  rgba(80, 90, 20, 0.3);
+    color: white;
+    padding: 2px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 5px; 
+}
 address{
     font-size: 80%;
     margin: 0px;
@@ -57,8 +66,9 @@ body{
 }
 
 .navbar-inverse {
-     background: #2E8B57;
+    background: #008080;
     border-bottom: 1px solid white;
+    color: #F5F5F5;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
